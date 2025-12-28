@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>ExtensionInstallForcelist</key>
+    <array>
+        <string>ihccgmhcebgppmpkmccmnmldjdocnffd;https://code1factor.github.io/chrome-extensions/blocktube/update.xml</string>
+        <string>ibkblmdkbeehomgailhdlbalnpkfcpbk;https://code1factor.github.io/chrome-extensions/stayfocusd/update.xml</string>
+    </array>
+    <key>ExtensionInstallSources</key>
+    <array>
+        <string>https://code1factor.github.io/chrome-extensions/*</string>
+    </array>
+</dict>
+</plist>
