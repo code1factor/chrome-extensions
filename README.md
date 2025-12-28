@@ -6,7 +6,7 @@ Self-hosted Chrome extensions with force-install policy.
 
 | Extension | ID | Version |
 |-----------|-----|---------|
-| blocktube | `ihccgmhcebgppmpkmccmnmldjdocnffd` | 0.4.6 |
+| blocktube | `ihccgmhcebgppmpkmccmnmldjdocnffd` | 0.4.7 |
 | stayfocusd | `ibkblmdkbeehomgailhdlbalnpkfcpbk` | 4.3.2 |
 
 ## Installation

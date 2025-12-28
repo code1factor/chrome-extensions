@@ -11,9 +11,5 @@
     <array>
         <string>https://code1factor.github.io/chrome-extensions/*</string>
     </array>
-    <!-- Disable incognito mode (extensions can't be force-enabled there) -->
-    <!-- 0 = available, 1 = disabled, 2 = forced -->
-    <key>IncognitoModeAvailability</key>
-    <integer>1</integer>
 </dict>
 </plist>
